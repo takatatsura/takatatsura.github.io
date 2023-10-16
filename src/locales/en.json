@@ -1,0 +1,8 @@
+{
+  "common": {
+    "about": "About",
+    "aboutText": "I am a Full Stack Developer with a Front End focus located in Brazil.",
+    "skillsAndXp": "Skills and Experience",
+    "skillsText": "I graduated from São Paulo State University (UNESP) with a bachelor's in Computer Science. My focus is primarily development with Vue.js with Vuetify or TailwindCSS."
+  }
+}
